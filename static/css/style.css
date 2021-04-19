@@ -2,6 +2,9 @@ h4 {
 color: grey;
 padding: 0px 20px;
 }
+.log {
+text-align: center
+}
 table{
   border-spacing: 0px;
 }
