@@ -1,0 +1,23 @@
+h4 {
+color: grey;
+padding: 0px 20px;
+}
+table{
+  border-spacing: 0px;
+}
+th {
+  background: #a8a8a8;
+  padding: 8px;
+}
+td {
+  background: #a8a8ff;
+  padding: 8px;
+}
+.finish {
+  background: #a8ffa8;
+  padding: 8px;
+}
+.not_finish {
+  background: #ffa8a8;
+  padding: 8px;
+}
